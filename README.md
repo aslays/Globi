@@ -1,0 +1,2 @@
+# Globi
+C# desktop app
