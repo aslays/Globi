@@ -1,0 +1,115 @@
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\bin\Debug\Globi.exe.config
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\bin\Debug\Globi.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\bin\Debug\Globi.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.Form1.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.Properties.Resources.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.csproj.GenerateResource.Cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formPaciente.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formAltaEmpleado.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formAltaPacientes.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formEmpleados.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.SplashScreen.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formAltaObraSocial.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formObraSocial.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formProveedores.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formAltaProveedores.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formAltaContactos.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formContactos.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formAltaTerceros.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Globi\Globi\Globi\obj\Debug\Globi.formTerceros.resources
+D:\Globi-prueba\Globi\Globi\bin\Debug\Globi.exe.config
+D:\Globi-prueba\Globi\Globi\bin\Debug\Globi.exe.manifest
+D:\Globi-prueba\Globi\Globi\bin\Debug\Globi.application
+D:\Globi-prueba\Globi\Globi\bin\Debug\Globi.exe
+D:\Globi-prueba\Globi\Globi\bin\Debug\Globi.pdb
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.Form2Login.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formAltaContactos.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formAltaEmpleado.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formAltaMedicos.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formAltaObraSocial.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formAltaPacientes.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.Form1.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formAltaProveedores.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formAltaTerceros.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formContactos.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formEmpleados.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formEspecialidad.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formMedicos.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formObraSocial.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formPaciente.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formProveedores.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.formTerceros.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.FormUsuario.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.Properties.Resources.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.SplashScreen.resources
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.csproj.GenerateResource.Cache
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.exe.manifest
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.application
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.exe
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.pdb
+D:\Globi-prueba\Globi\Globi\obj\Debug\Globi.csprojResolveAssemblyReference.cache
+C:\Dropbox\Globi\Globi\bin\Debug\Globi.exe.config
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.exe
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.pdb
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.csprojResolveAssemblyReference.cache
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.Form2Login.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formAltaContactos.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formAltaEmpleado.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formAltaMedicos.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formAltaObraSocial.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formAltaPacientes.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.Form1.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formAltaProveedores.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formAltaTerceros.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formContactos.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formEmpleados.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formEspecialidad.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formMedicos.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formObraSocial.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formPaciente.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formProveedores.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.formTerceros.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.FormUsuario.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.Properties.Resources.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.SplashScreen.resources
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.csproj.GenerateResource.Cache
+C:\Dropbox\Globi\Globi\bin\Debug\Globi.exe.manifest
+C:\Dropbox\Globi\Globi\bin\Debug\Globi.application
+C:\Dropbox\Globi\Globi\bin\Debug\Globi.exe
+C:\Dropbox\Globi\Globi\bin\Debug\Globi.pdb
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.exe.manifest
+C:\Dropbox\Globi\Globi\obj\Debug\Globi.application
+E:\Globi\Globi\Globi\bin\Debug\Globi.exe.config
+E:\Globi\Globi\Globi\obj\Debug\Globi.exe
+E:\Globi\Globi\Globi\obj\Debug\Globi.pdb
+E:\Globi\Globi\Globi\bin\Debug\Globi.exe.manifest
+E:\Globi\Globi\Globi\bin\Debug\Globi.application
+E:\Globi\Globi\Globi\bin\Debug\Globi.exe
+E:\Globi\Globi\Globi\bin\Debug\Globi.pdb
+E:\Globi\Globi\Globi\obj\Debug\Globi.csprojResolveAssemblyReference.cache
+E:\Globi\Globi\Globi\obj\Debug\Globi.Form2Login.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formAltaContactos.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formAltaEmpleado.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formAltaMedicos.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formAltaObraSocial.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formAltaPacientes.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.Form1.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formAltaProveedores.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formAltaTerceros.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formContactos.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formEmpleados.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formEspecialidad.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formMedicos.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formObraSocial.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formPaciente.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formProveedores.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.formTerceros.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.FormUsuario.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.Properties.Resources.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.SplashScreen.resources
+E:\Globi\Globi\Globi\obj\Debug\Globi.csproj.GenerateResource.Cache
+E:\Globi\Globi\Globi\obj\Debug\Globi.exe.manifest
+E:\Globi\Globi\Globi\obj\Debug\Globi.application
